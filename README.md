@@ -1,0 +1,1 @@
+Developed a semi-supervised model for cross-domain recommendation systems targeting cold-start users. Implemented user and item embeddings and optimized loss functions to enhance recommendation accuracy
